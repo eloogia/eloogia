@@ -22,7 +22,7 @@ Receipt photos dropped in Google Drive → **Make** scenario → **Taggun OCR AP
 *Built with [Luisa Vargas](https://github.com/lxvargasg).*
 
 ### 🎓 Background
-- Doctor of Veterinary Medicine (DVM), Universidad Nacional de Colombia. Recognised by Québec's MIFI as equivalent to a Québec baccalauréat (I am not licensed to practise veterinary medicine in Canada; I bring the domain knowledge to data work)
+- Doctor of Veterinary Medicine (DVM), Universidad Nacional de Colombia, 2008. Recognised by Québec's MIFI as equivalent to a Québec baccalauréat (I am not licensed to practise veterinary medicine in Canada; I bring the domain knowledge to data work)
 - Graduate specialization in Public Management (ESAP), including process automation with VBA and Python Selenium
 - Google Data Analytics Professional Certificate (March 2025)
 - Languages: Spanish (native) · English (C1) · French (B1, improving)
