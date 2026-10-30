@@ -16,7 +16,9 @@ I turn raw operational, field and lab data into clean, reliable reports and dash
 ### 🛠️ Tools
 `SQL` · `Python (incl. Selenium)` · `R` · `Power BI (DAX, Power Query)` · `Tableau` · `Excel / VBA` · `MS Access` · `Make (Integromat)` · `Google Sheets / Forms`
 
-### 📌 Featured project
+### 📌 Featured projects
+**[Canada Food Prices Tracker](https://github.com/eloogia/canada-food-prices-tracker)**: 20-staple grocery basket index for Québec vs Canada from Statistics Canada retail price data (table 18-10-0245-01), with a documented data-quality review (series breaks, label issues, outliers). **Python** (pandas) → **SQLite/SQL** analysis → **R** cross-check → charts.
+
 **[Receipt-o-Matic](https://github.com/eloogia/Receipt-o-Matic)**: an automated expense-tracking and price-comparison pipeline.
 Receipt photos dropped in Google Drive → **Make** scenario → **Taggun OCR API** → structured receipt and line-item tables in Google Sheets → **Power BI** model with keyword-priority product categorisation and a monthly spending / store-price dashboard.
 *Built with [Luisa Vargas](https://github.com/lxvargasg).*
